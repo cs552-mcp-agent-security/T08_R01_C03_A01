@@ -1,3 +1,9 @@
+> **Fork notice (cs552-mcp-agent-security)**: This repository is a fork of
+> [ageron/handson-ml3](https://github.com/ageron/handson-ml3), maintained for
+> the CS552 GitHub MCP Injection Benchmark. The upstream LICENSE (Apache-2.0)
+> is preserved verbatim.
+
+---
 Machine Learning Notebooks, 3rd edition
 =================================
 
